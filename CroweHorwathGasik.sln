@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweHorwathAPI", "CroweHorwathAPI\CroweHorwathAPI.csproj", "{667EC063-C931-43D7-915B-3A5393B110F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweHorwathAPI.Test", "CroweHorwathAPI.Test\CroweHorwathAPI.Test.csproj", "{3BD89D9D-D863-4054-BD6E-8FDFF4B85E5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweHorwathBusinessLogic", "CroweHorwathBusinessLogic\CroweHorwathBusinessLogic.csproj", "{707CF3A6-B809-4D4C-B963-6C10D2F21629}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweHorwathBusinessLogic.Test", "CroweHorwathBusinessLogic.Test\CroweHorwathBusinessLogic.Test.csproj", "{53848C2B-E081-42B5-AAAB-1F1662A33973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweHorwathConsole", "CroweHorwathConsole\CroweHorwathConsole.csproj", "{FE40BBCB-7A19-40C6-AE14-C7255A41B6EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{667EC063-C931-43D7-915B-3A5393B110F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667EC063-C931-43D7-915B-3A5393B110F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667EC063-C931-43D7-915B-3A5393B110F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667EC063-C931-43D7-915B-3A5393B110F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BD89D9D-D863-4054-BD6E-8FDFF4B85E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD89D9D-D863-4054-BD6E-8FDFF4B85E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD89D9D-D863-4054-BD6E-8FDFF4B85E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD89D9D-D863-4054-BD6E-8FDFF4B85E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{707CF3A6-B809-4D4C-B963-6C10D2F21629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707CF3A6-B809-4D4C-B963-6C10D2F21629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707CF3A6-B809-4D4C-B963-6C10D2F21629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707CF3A6-B809-4D4C-B963-6C10D2F21629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53848C2B-E081-42B5-AAAB-1F1662A33973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53848C2B-E081-42B5-AAAB-1F1662A33973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53848C2B-E081-42B5-AAAB-1F1662A33973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53848C2B-E081-42B5-AAAB-1F1662A33973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE40BBCB-7A19-40C6-AE14-C7255A41B6EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE40BBCB-7A19-40C6-AE14-C7255A41B6EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE40BBCB-7A19-40C6-AE14-C7255A41B6EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE40BBCB-7A19-40C6-AE14-C7255A41B6EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
